@@ -1,0 +1,15 @@
+D:\Proyectos\CleanArchitectureDotNet\CADN.Application\bin\Debug\net7.0\CADN.Application.deps.json
+D:\Proyectos\CleanArchitectureDotNet\CADN.Application\bin\Debug\net7.0\CADN.Application.dll
+D:\Proyectos\CleanArchitectureDotNet\CADN.Application\bin\Debug\net7.0\CADN.Application.pdb
+D:\Proyectos\CleanArchitectureDotNet\CADN.Application\bin\Debug\net7.0\CADN.Domain.dll
+D:\Proyectos\CleanArchitectureDotNet\CADN.Application\bin\Debug\net7.0\CADN.Domain.pdb
+D:\Proyectos\CleanArchitectureDotNet\CADN.Application\obj\Debug\net7.0\CADN.Application.csproj.AssemblyReference.cache
+D:\Proyectos\CleanArchitectureDotNet\CADN.Application\obj\Debug\net7.0\CADN.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\CleanArchitectureDotNet\CADN.Application\obj\Debug\net7.0\CADN.Application.AssemblyInfoInputs.cache
+D:\Proyectos\CleanArchitectureDotNet\CADN.Application\obj\Debug\net7.0\CADN.Application.AssemblyInfo.cs
+D:\Proyectos\CleanArchitectureDotNet\CADN.Application\obj\Debug\net7.0\CADN.Application.csproj.CoreCompileInputs.cache
+D:\Proyectos\CleanArchitectureDotNet\CADN.Application\obj\Debug\net7.0\CADN.App.9425A2D2.Up2Date
+D:\Proyectos\CleanArchitectureDotNet\CADN.Application\obj\Debug\net7.0\CADN.Application.dll
+D:\Proyectos\CleanArchitectureDotNet\CADN.Application\obj\Debug\net7.0\refint\CADN.Application.dll
+D:\Proyectos\CleanArchitectureDotNet\CADN.Application\obj\Debug\net7.0\CADN.Application.pdb
+D:\Proyectos\CleanArchitectureDotNet\CADN.Application\obj\Debug\net7.0\ref\CADN.Application.dll

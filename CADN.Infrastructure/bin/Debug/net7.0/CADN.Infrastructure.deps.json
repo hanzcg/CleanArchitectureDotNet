@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CADN.Infrastructure/1.0.0": {
+        "dependencies": {
+          "CADN.Application": "1.0.0",
+          "CADN.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CADN.Infrastructure.dll": {}
+        }
+      },
+      "CADN.Application/1.0.0": {
+        "dependencies": {
+          "CADN.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CADN.Application.dll": {}
+        }
+      },
+      "CADN.Domain/1.0.0": {
+        "runtime": {
+          "CADN.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CADN.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CADN.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CADN.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

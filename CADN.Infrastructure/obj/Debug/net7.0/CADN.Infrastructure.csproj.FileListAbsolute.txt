@@ -1,0 +1,17 @@
+D:\Proyectos\CleanArchitectureDotNet\CADN.Infrastructure\bin\Debug\net7.0\CADN.Infrastructure.deps.json
+D:\Proyectos\CleanArchitectureDotNet\CADN.Infrastructure\bin\Debug\net7.0\CADN.Infrastructure.dll
+D:\Proyectos\CleanArchitectureDotNet\CADN.Infrastructure\bin\Debug\net7.0\CADN.Infrastructure.pdb
+D:\Proyectos\CleanArchitectureDotNet\CADN.Infrastructure\bin\Debug\net7.0\CADN.Application.dll
+D:\Proyectos\CleanArchitectureDotNet\CADN.Infrastructure\bin\Debug\net7.0\CADN.Domain.dll
+D:\Proyectos\CleanArchitectureDotNet\CADN.Infrastructure\bin\Debug\net7.0\CADN.Application.pdb
+D:\Proyectos\CleanArchitectureDotNet\CADN.Infrastructure\bin\Debug\net7.0\CADN.Domain.pdb
+D:\Proyectos\CleanArchitectureDotNet\CADN.Infrastructure\obj\Debug\net7.0\CADN.Infrastructure.csproj.AssemblyReference.cache
+D:\Proyectos\CleanArchitectureDotNet\CADN.Infrastructure\obj\Debug\net7.0\CADN.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\CleanArchitectureDotNet\CADN.Infrastructure\obj\Debug\net7.0\CADN.Infrastructure.AssemblyInfoInputs.cache
+D:\Proyectos\CleanArchitectureDotNet\CADN.Infrastructure\obj\Debug\net7.0\CADN.Infrastructure.AssemblyInfo.cs
+D:\Proyectos\CleanArchitectureDotNet\CADN.Infrastructure\obj\Debug\net7.0\CADN.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Proyectos\CleanArchitectureDotNet\CADN.Infrastructure\obj\Debug\net7.0\CADN.Inf.CC827D51.Up2Date
+D:\Proyectos\CleanArchitectureDotNet\CADN.Infrastructure\obj\Debug\net7.0\CADN.Infrastructure.dll
+D:\Proyectos\CleanArchitectureDotNet\CADN.Infrastructure\obj\Debug\net7.0\refint\CADN.Infrastructure.dll
+D:\Proyectos\CleanArchitectureDotNet\CADN.Infrastructure\obj\Debug\net7.0\CADN.Infrastructure.pdb
+D:\Proyectos\CleanArchitectureDotNet\CADN.Infrastructure\obj\Debug\net7.0\ref\CADN.Infrastructure.dll
